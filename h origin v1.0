@@ -1,0 +1,41 @@
+[33mcommit b102f7078f1db51243bac1179861afbea2a164e2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: 1.0[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: arehmandev <arehma@outlook.com>
+Date:   Sat Jul 24 17:44:29 2021 +0100
+
+    Added text file
+
+[33mcommit 37cc9312c716f02f4adfee25260991b03aa15483[m
+Author: arehmandev <arehma@outlook.com>
+Date:   Sat Jul 24 17:36:19 2021 +0100
+
+    Addd intellij to .gitignore
+
+[33mcommit 1f4f22a4fe536339213ae9e3ff00586e4e2d266f[m
+Author: arehmandev <arehma@outlook.com>
+Date:   Sat Jul 24 17:34:16 2021 +0100
+
+    Added git ignore tfstate file
+
+[33mcommit 247ef58a53e21d716116f551da24e8d91c71ce1b[m
+Author: arehmandev <arehma@outlook.com>
+Date:   Sat Jul 24 17:30:16 2021 +0100
+
+    Removed tfstate file
+
+[33mcommit 845e480d879ca7e6f5d6d56c3c4ae0ad29f5b119[m
+Author: arehmandev <arehma@outlook.com>
+Date:   Sat Jul 24 01:42:06 2021 +0100
+
+    added git ignore
+
+[33mcommit 44779035e121745b40c7b4cfce13b2240eadeb71[m
+Author: arehmandev <arehma@outlook.com>
+Date:   Sat Jul 17 22:00:08 2021 +0100
+
+    Added all contents
+
+[33mcommit a7808286ef1cde57d4df468a08f9caf831db3333[m
+Author: arehmandev <arehma@outlook.com>
+Date:   Sat Jul 17 21:56:48 2021 +0100
+
+    first commit
